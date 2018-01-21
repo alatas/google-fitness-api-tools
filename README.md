@@ -18,5 +18,5 @@ git clone https://github.com/alatas/google-fitness-api-tools.git
 ```
 
 ## Tools
-### [Weight Exporter](weight_export.md)
+### [Weight Exporter](weight_exporter.md)
 Reads weight data from Google Fitness API and export to a CSV file
