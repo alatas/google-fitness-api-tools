@@ -1,4 +1,6 @@
 .DS_Store
 *.csv
 *.dat
+*.pyc
 .vscode
+client_secret.json
